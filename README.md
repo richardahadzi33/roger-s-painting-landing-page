@@ -1,2 +1,7 @@
-# roger-s-painting-landing-page
-painting services landing page
+Project Title: La Grâce de Dieu Artisan Landing PageClient Profile: La Grâce de Dieu Painting & Interior Finishing ServicesRole: Lead Frontend Web DeveloperProject Type: Freelance Local Business Lead-Generation Page
+
+The ChallengeThe client, operating under the name La Grâce de Dieu, is a highly skilled local artisan specializing in premium interior painting, clean wall skimming, and custom structural POP plaster ceiling designs. Despite high-quality craftsmanship, the business relied strictly on word-of-mouth referrals. The client lacked a professional digital presence to display visual transformations, articulate service offerings, and capture high-value leads directly from local homeowners searching for reliable tradesmen online.
+
+The SolutionDeveloped a high-performance, single-page landing page optimized explicitly for local lead generation and trust building for La Grâce de Dieu. The technical strategy focuses heavily on immediate visual proof and effortless mobile communication channels.
+
+Technical Implementation & ArchitectureArchitecture: Complete separation utilizing pure HTML5 for semantic document structures and Vanilla CSS3 for fine-grain component layouts.Performance Optimization: Zero dependency on heavy third-party frameworks or render-blocking CDNs, guaranteeing blistering load speeds even on slow mobile data connections.Responsive Layout Grid: Built using native CSS Grid and Flexbox paired with clean media break queries. The system fluidly downscales from multi-column desktop grids into a single-column layout perfect for single-thumb smartphone interaction.Direct Communication Hooks: Integrated native protocol communication wrappers including tel: interfaces for one-touch voice dialing and optimized URL parameter strings for direct, context-filled WhatsApp routing straight to the phone of La Grâce de Dieu's manager.
